@@ -56,4 +56,4 @@ app = gr.Interface(
         outputs="text", 
         title="HSC Predictor")
 
-app.launch(share=True)
+app.launch()
